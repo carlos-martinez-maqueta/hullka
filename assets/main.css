@@ -1,0 +1,71 @@
+body {
+  font-family: "Bebas Neue", sans-serif;
+}
+.all_view{
+    height: 100vh;
+}
+.all_view .section_all_view{
+    height: 100%;
+    background-color: #000000;
+}
+.all_view .section_all_view .container-fluid{
+    height: 100%;
+}
+.all_view .section_all_view .container-fluid .row{
+    padding: 20px;
+}
+.all_view .section_all_view .container-fluid .laterales{
+    height: 100%;
+}
+.all_view .section_all_view .container-fluid .laterales img{
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 20px;
+}
+.all_view .section_all_view .container-fluid .laterales .contenedor_img{
+    height: 100%;
+}
+.all_view .section_all_view .container-fluid .laterales .contenedor_form{
+    background-color: #ffffff;
+    height: 100%;
+    border-radius: 20px;
+    padding: 30px 64px 50px;
+}
+.all_view .section_all_view .container-fluid .laterales .contenedor_form h1{
+    text-align: center;
+}
+.all_view .section_all_view .container-fluid .laterales .contenedor_form img{
+    width: 200px;
+    margin: auto;
+}
+.contenedor_form .p_login_css{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Raleway", sans-serif;
+}
+.contenedor_form p{
+    font-size: 34px;
+    font-weight: 600;
+}
+.contenedor_form span{
+    font-size: 20px;
+    font-weight: 900;
+}
+.contenedor_form .no_acout p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.contenedor_form .form-check{
+    float: right;
+}
+#registerForm label{
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+#registerForm input{
+        font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
