@@ -289,6 +289,7 @@ if (!isset($_SESSION['user_id'])) {
                                 <li class="nxl-item"><a class="nxl-link" href="emitir-boleta">Emitir Boleta</a></li>
                                 <li class="nxl-item"><a class="nxl-link" href="emitir-factura">Emitir Factura</a></li>
                                 <li class="nxl-item"><a class="nxl-link" href="notas-de-venta">Nota de Venta</a></li>
+                                <li class="nxl-item"><a class="nxl-link" href="liquidacion-de-compra">Liquidación de Compra</a></li>
                             </ul>
                         </li>   
                         <li class="nxl-item nxl-hasmenu">
@@ -317,7 +318,7 @@ if (!isset($_SESSION['user_id'])) {
                         </li>
                     </ul>
                 </li>
-                <li class="nxl-item nxl-hasmenu">
+                <!-- <li class="nxl-item nxl-hasmenu">
                     <a href="javascript:void(0);" class="nxl-link">
                         <span class="nxl-micon"><img src="assets/iconos/soporte.png" alt=""></span>
                         <span class="nxl-mtext">Soporte</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
@@ -326,7 +327,7 @@ if (!isset($_SESSION['user_id'])) {
                         <li class="nxl-item"><a class="nxl-link" href="https://wrapcoders.tawk.help">WhatsApp</a></li>
                         <li class="nxl-item"><a class="nxl-link" href="help-knowledgebase.html">Correo</a></li>
                     </ul>
-                </li>
+                </li> -->
             </ul>
             <div class="card text-center">
                 <div class="card-body">
